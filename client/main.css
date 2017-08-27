@@ -1,0 +1,11 @@
+/* CSS declarations go here */
+
+.cookie > img{
+  width: 300px;
+  transition: 0.2s;
+}
+
+.cookie:active > img{
+  width: 240px;
+  margin-top: 30px;
+}
